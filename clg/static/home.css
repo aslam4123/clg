@@ -1,0 +1,22 @@
+#h1{
+    padding-left: 600px;
+}
+#p1{
+    padding-left: 300px;
+}
+#a{
+  padding-left: 300px; 
+  background-color: #f0f0f0 !important;
+  color: #888888;
+  text-shadow: none;
+  border: 1px solid #888888;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 15px 55px;
+  display: inline-block;
+  line-height: 1;
+  text-align: center;
+  transition: all .3s;
+  text-decoration: none;
+}
